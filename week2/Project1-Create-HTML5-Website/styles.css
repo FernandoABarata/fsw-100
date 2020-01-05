@@ -1,0 +1,17 @@
+.CIA {
+    color:darkgreen;
+    font-family: Georgia;
+    text-align: center;
+}
+#h3 {
+    background-color: red;
+    font-family: Georgia;
+    text-align: center;
+}
+body > p {
+    background-color: yellow;
+    line-height: 25px;
+}
+.CAPS {
+    text-transform: uppercase;
+}
